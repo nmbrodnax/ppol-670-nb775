@@ -1,7 +1,7 @@
 ##PPOL 670-01 Fall 2018
 ### Problem Set 1* - Due by 11:59 on Monday, September 17
 
-*Submission Instructions* Create a Python script called *pset1_netid.py* and a text file called *pset1_netid.txt*, except in both cases, replace "netid" with your Georgetown netid. All responses for Parts 1, 2, and 3 should be submitted on Canvas as part of the text file, and all code for Parts 2 and 3 should be submitted on Canvas as part of the Python script.
+**Submission Instructions** Create a Python script called *pset1_netid.py* and a text file called *pset1_netid.txt*, except in both cases, replace "netid" with your Georgetown netid. All responses for Parts 1, 2, and 3 should be submitted on Canvas as part of the text file, and all code for Parts 2 and 3 should be submitted on Canvas as part of the Python script.
 
 #### Part 1 - Data Types
 Examine the following code:
