@@ -15,8 +15,11 @@ print(type(x))
 ```
 
 (a) Before executing any code, make a prediction of what the output will be.  Then run the code.  If your prediction was wrong, figure out why, and write a brief explanation.
+
 (b) What is the type of the variable `x` after line 1 is run?
+
 (c) What is the type of the variable `x` at the end of the script?
+
 (d) Did the type of the variable `x` change at any point during the running of the code? If so, which line of code changed the type?  If not, why not?
 
 #### Part 2 - Errors
