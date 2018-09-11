@@ -31,3 +31,5 @@ For each of the following, explain why Python returns an exception.  Then, make 
 ####Part 3 - Conditionals, Loops, and Functions
 Define a function called `exclaim()` that takes a string and returns `True` fi the string contains at least one exclamation point.  Otherwise it should return `False`.  You must use a `for` or `while` loop as part of your function definition.  If your function works correctly, `exclaim("p!ayer")` should return `True` and `exclaim("apple")` should return `False`. Include your function definition along with statements to evaluate it in your *pset1_netid.py* script.
 
+
+*Adapted from CSCI-A 201/597 taught by Erik Wennstrom
