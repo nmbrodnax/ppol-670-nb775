@@ -12,7 +12,7 @@ server_response = requests.get(webpage)
 
 
 # PARSE #
-soup = bs4.BeautifulSoup(server_response.text)
+soup = bs4.BeautifulSoup(server_response.text, 'html.parser')
 
 # create a list of dictionaries (one dict for each link)
 link_info_list = []
