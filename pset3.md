@@ -4,7 +4,7 @@
 #### Submission Instructions 
 For this assignment, you will create a Jupyter Notebook called *pset3_netid.ipynb* and a CSV file called *pset3_data_netid.csv*. In all cases, replace "netid" with your Georgetown netid. Submit both files on Canvas.
 
-Include all code and responses to questions in a Jupyter notebook called *pset3_netid.ipynb*.  All code should be placed in code cells and all text should be placed in Markdown cells.  Before submitting the notebook on Canvas, you must run all cells in the notebook and save it.
+Include both code and responses to questions in your Jupyter notebook.  Python code should be executed in code cells and all text should be placed in [Markdown](https://www.markdownguide.org/) cells.  Before submitting the notebook on Canvas, you must run all cells in the notebook and save it.
 
 **BONUS:** This assignment requires you to acquire a dataset in CSV format.  If the data of interest are available through an API, you may earn up to 10 additional points by acquiring your data through the API rather than via CSV download.  All code for the bonus must be included in your Jupyter notebook and follow the RAPTOR model.
 
@@ -21,11 +21,9 @@ Find a dataset in CSV format from [data.gov](https://catalog.data.gov/dataset) i
 
 #### Part 2 - Exploration (35 points)
 
-Download the dataset described above in CSV format and save it as *pset3_data_netid.csv*. The dataset must be saved in the same directory as your Jupyter notebook.  
+Download the dataset described above in CSV format and save it as *pset3_data_netid.csv*. The dataset must be saved in the same directory as your Jupyter notebook. Complete the following in a new section of the notebook with the heading "Exploration."
 
- 1. Create a new section in your Jupyter notebook with the heading "Exploration."
-
- 2. Review the `pandas` documentation for `.isnull()`, `.notnull()`, and `.fillna()`.  Describe the basic functionality of these functions in your Jupyter notebook.
+ 2. Review the [`pandas`](http://pandas.pydata.org/pandas-docs/stable/) documentation for `.isnull()`, `.notnull()`, and `.fillna()`.  Describe the basic functionality of these functions in your Jupyter notebook.
 
  3. Create a dataframe object from your dataset.  Display the first ten rows of the dataframe.
 
