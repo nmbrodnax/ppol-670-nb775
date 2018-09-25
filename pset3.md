@@ -21,13 +21,13 @@ Find a dataset in CSV format from [data.gov](https://catalog.data.gov/dataset) i
 
 #### Part 2 - Exploration (35 points)
 
-Download the dataset described above in CSV format and save it as *pset3_data_netid.csv*. The dataset must be saved in the same directory as your Jupyter notebook. Complete the following in a new section of the notebook with the heading "Exploration."
+Acquire the dataset described above in CSV format and save it as *pset3_data_netid.csv*. The dataset must be saved in the same directory as your Jupyter notebook. Complete the following in a new section of the notebook with the heading "Exploration."
 
- 2. Review the [`pandas`](http://pandas.pydata.org/pandas-docs/stable/) documentation for `.isnull()`, `.notnull()`, and `.fillna()`.  Describe the basic functionality of these functions in your Jupyter notebook.
+ 1. Review the [`pandas`](http://pandas.pydata.org/pandas-docs/stable/) documentation for `.isnull()`, `.notnull()`, and `.fillna()`.  Describe the basic functionality of these functions in your Jupyter notebook.
 
- 3. Create a dataframe object from your dataset.  Display the first ten rows of the dataframe.
+ 2. Create a dataframe object from your dataset.  Display the first ten rows of the dataframe.
 
- 4. Create a subset with at least three quantitative variables.  Display the first ten rows of the subset.
+ 3. Create a subset with at least three quantitative variables.  Display the first ten rows of the subset.
 
  4. Use `pandas` functionality to answer the following questions: Are your variables missing any observations?  If so, how many?
 
