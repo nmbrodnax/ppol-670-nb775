@@ -28,7 +28,7 @@ Estimated total number of poor people, with the year for the data indicated by t
 
 ## Activity
 
- 1. Prepare one plot to provide your supervisor with insight on how state legislatures might interpret the SNAP data.  Your plot must meet the following requirements: effective use of plot elements; appropriate titles and labels; effective use of color and contrast; meaningful measure and scale; and adherence to best practices for legibility.
+ 1. Prepare one plot to provide your supervisor with insight on how state legislatures might interpret the SNAP data.  Your plot must meet the following requirements: effective use of plot elements; appropriate titles and labels; effective use of color and contrast; meaningful measure and scale; and adherence to best practices for legibility. Email your plot to Prof Brodnax no later than 5:30 pm.
 
  2. Write a brief (one- to two-minute) comment that your supervisor can include weighing in on the debate between Senators Roberts and Stabenow over the treatment of SNAP in the Farm Bill.  
 
