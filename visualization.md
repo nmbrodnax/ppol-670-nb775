@@ -32,3 +32,4 @@ Estimated total number of poor people, with the year for the data indicated by t
 
  2. Write a brief (one- to two-minute) comment that your supervisor can include weighing in on the debate between Senators Roberts and Stabenow over the treatment of SNAP in the Farm Bill.  
 
+NOTE: You may wish to review the documentation for [`matplotlib.pyplot`](https://matplotlib.org/api/_as_gen/matplotlib.pyplot.html).
