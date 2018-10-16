@@ -6,7 +6,7 @@ For this assignment, you will create a Jupyter Notebook called *pset4_netid.ipyn
 
 Include both code and responses to questions in your Jupyter notebook.  Python code should be thoroughly commented and executed in code cells and all text should be placed in [Markdown](https://www.markdownguide.org/) cells with proper formatting.  Before submitting the notebook on Canvas, you must run all cells in the notebook and save it.
 
-For this assignment, you will apply one of the supervised learning techniques discussed in class.  Your Jupyter notebook should begin with all necessary import statements and include sensible section headers throughout. This assignment requires the file *county_demographics_2016.csv*, which can be found on Canvas.
+For this assignment, you will apply one of the supervised learning techniques discussed in class.  Your Jupyter notebook should begin with all necessary import statements and include sensible section headers throughout. In addition, any visualizations should adhere to the best practices we have discussed in class. This assignment requires the file *county_demographics_2016.csv*, which can be found on Canvas.  
 
  1. Create a dataframe object by loading the file *county_demographics_2016*.  Display the first five rows of the dataframe.  
 
@@ -16,9 +16,9 @@ For this assignment, you will apply one of the supervised learning techniques di
 
  4. Create a feature matrix and a target array from your dataframe object, where `X` includes percentage of high school graduates and `y` includes the log of median income.
 
- 5. Use the `LinearRegression` model from `sklearn.linear_model` to fit a linear regression model with an intercept.  Display the coefficient for education.
+ 5. Use the `LinearRegression` model from `sklearn.linear_model` to fit a linear regression model with an intercept.  Display the coefficient for percentage of high school graduates.
 
- 6. Create an array representing fake counties with 100 random observations for percentage of high school graduates. Predict median income for this set of new observations.  
+ 6. Create an array with 100 random observations within the range for percentage of high school graduates. Predict median income for this set of new observations.  
 
  7. Create a scatterplot showing the data and the best line of fit.
 
