@@ -24,7 +24,7 @@ For this assignment, you will apply one of the techniques discussed in class.  Y
 
  8. Create a `KNeighborsClassifier` model object with k = 3. Using `cross_val_score`, compute and display the scores from a five-fold cross-validation. Discuss the performance of your model based on the results.  
 
-BONUS: Write a function called `knncv()` that accepts as arguments a list of k (neighbor) integer values and an integer for the number of cross-validation folds.  It may include other arguments.  The function should return a summary of the scores associated with each k and cross-validation fold combination.  Provide a demonstration of the function's use.                                                 
+BONUS: Write a function called `knncv()` that accepts as arguments a list of k (neighbor) integer values and an integer for the number of cross-validation folds.  It may include other arguments.  The function should display and return the scores associated with each k and cross-validation fold combination.  Provide a demonstration of the function's use.                                                 
 
 
 
