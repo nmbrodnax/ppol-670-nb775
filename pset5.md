@@ -16,7 +16,7 @@ For this assignment, you will apply one of the techniques discussed in class.  Y
 
  3. Fit the model and generate predictions, using all available data. Using the [`accuracy_score`](http://scikit-learn.org/stable/modules/model_evaluation.html#accuracy-score) function from `sklearn.metrics`, compute and display the accuracy scores for the model with k = 1 and k = 5. Discuss the impact of varying k on the accuracy score.  
 
-Part 2 - Cross-validation (30 points)
+#### Part 2 - Cross-validation (30 points)
 
  1. Using the [`train_test_split`](http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html) function from `sklearn.model_selection`, create training and test sets for X and y, using a 50% split and a seed of zero.  
 
