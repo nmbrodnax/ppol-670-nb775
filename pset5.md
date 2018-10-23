@@ -12,7 +12,7 @@ For this assignment, you will apply one of the techniques discussed in class.  Y
 
  2. Create a feature matrix and target array from the Iris dataset, with `species` as the target. Next, create a `KNeighborsClassifier` model object with k = 1.  
 
- 3. Using the [`accuracy_score`](http://scikit-learn.org/stable/modules/model_evaluation.html#accuracy-score) function from `sklearn.metrics`, compute and display the accuracy scores for the model with k = 1 and k = 5, using all available data. Discuss the impact of varying k on the accuracy score.  
+ 3. Generate predictions from the model, using all available data. Using the [`accuracy_score`](http://scikit-learn.org/stable/modules/model_evaluation.html#accuracy-score) function from `sklearn.metrics`, compute and display the accuracy scores for the model with k = 1 and k = 5. Discuss the impact of varying k on the accuracy score.  
 
  4. Using the [`train_test_split`](http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html) function from `sklearn.model_selection`, create training and test sets for X and y, using a 50% split and a seed of zero.  
 
