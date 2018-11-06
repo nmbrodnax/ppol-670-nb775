@@ -37,11 +37,11 @@ This assignment requires the file *heart.csv*, which can be found on Canvas.  Th
  * AHD - angiographic heart disease diagnosis
 
 
-#### Decision Trees
+#### Decision Tree Classification
 
  1. Load and examine the variables from the Heart dataset.  What variables, if any, are missing observations?
 
- 2. Create a feature matrix and target array from the Heart dataset, with heart disease diagnosis as the target. 
+ 2. Create a feature matrix and target array from the Heart dataset, with the aim of predicting heart disease diagnosis. 
 
  3. Create a `DecisionTreeClassifier` model object.  Fit the model using all available data. 
 
@@ -49,9 +49,9 @@ This assignment requires the file *heart.csv*, which can be found on Canvas.  Th
 
  5. Display a visualization of your decision tree.
 
- 6. Create a DataFrame with columns for the variable name and the variable importance from the model.
+ 6. Create a DataFrame with two columns: variable name and variable importance. Hint: You can extract variable importance from the Decision Tree model.
 
- 7. Create a horizontal bar plot with the variable names sorted by importance.  Discuss the relative importance of the variables for predicting a heart disease diagnosis.
+ 7. Create a horizontal bar plot titled "Variable Importance" with the variable names sorted by importance.  Discuss the relative importance of the variables for predicting a heart disease diagnosis.
 
 
 
